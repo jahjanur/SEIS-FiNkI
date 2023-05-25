@@ -1,4 +1,4 @@
-<h1 align="center">Boosting FINKI students with solved tasks.Solved tasks from FINKI</h1>
+<h1 align="center">Boosting🚀 FINKI students with solved tasks.</h1>
 <h3 align="center">Practicing with honor, no plagiarism.</h3>
 
 <h3 align="left">Connect with me:</h3>
